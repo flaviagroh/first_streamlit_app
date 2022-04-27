@@ -1,3 +1,4 @@
-import streamlit
+import streamlit as st
 
-streamlit.title('My Parents Super New Healthy Dinner')
+st.title('My Parents Super New Healthy Dinner')
+st.write("""#My first app Hello *world!*""")
